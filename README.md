@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WalidSahnoun0001
+- 👋 Hi, I’m Waleed Sahnoun
 - 👀 I’m interested in Web & Android Development
 - 🌱 I’m currently learning Jetpack Compose 
 - 📫 How to reach me --> sahnouneloualid1422@gmail.com
