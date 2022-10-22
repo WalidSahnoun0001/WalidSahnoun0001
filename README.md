@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Waleed Sahnoun
-- 👀 I’m interested in Web & Android Development
-- 🌱 I’m currently learning Jetpack Compose 
+- 👀 I’m interested in Web Development
 - 📫 How to reach me --> sahnouneloualid1422@gmail.com
 
 <!---
