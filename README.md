@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Waleed Sahnoun
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m Oualid Sahnoun
+- 👀 I’m interested in iOS Development
 - 📫 How to reach me --> sahnouneloualid1422@gmail.com
 
 <!---
